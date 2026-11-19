@@ -1,4 +1,4 @@
-# S1.09 - Principis SOLID
+# S3.01 - Principis SOLID
 
 ## Descripció
 
